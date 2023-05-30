@@ -213,9 +213,3 @@ The whole thing is based on many excellent projects. Especially the following:
 * [autotask](https://pypi.org/project/autotask/) schedule background jobs
 * [svgwrite](https://pypi.org/project/svgwrite/) Generating SVG file
 
-## donation
-
-
-* [paypal.me/JensDiemer](https://www.paypal.me/JensDiemer)
-* [Flattr This!](https://flattr.com/submit/auto?uid=Yell0wflash&url=https%3A%2F%2Fgithub.com%2FYell0wflash%2Fdjango-for-runners%2F)
-* Send [Bitcoins](http://www.bitcoin.org/) to [1823RZ5Md1Q2X5aSXRC5LRPcYdveCiVX6F](https://blockexplorer.com/address/1823RZ5Md1Q2X5aSXRC5LRPcYdveCiVX6F)

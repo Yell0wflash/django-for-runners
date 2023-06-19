@@ -1,19 +1,5 @@
 # Django-ForRunners
 
-![Logo](https://github.com/Yell0wflash/django-for-runners/raw/main/for_runners/static/Django-ForRunners128.png "Logo") Store your GPX tracks of your running (or other sports activity) in django.
-
-[![pytest](https://github.com/Yell0wflash/django-for-runners/workflows/test/badge.svg?branch=main)](https://github.com/Yell0wflash/django-for-runners/actions)
-[![Coverage Status on codecov.io](https://codecov.io/gh/Yell0wflash/django-for-runners/branch/main/graph/badge.svg)](https://codecov.io/gh/Yell0wflash/django-for-runners)
-[![django_yunohost_integration @ PyPi](https://img.shields.io/pypi/v/django_yunohost_integration?label=django_yunohost_integration%20%40%20PyPi)](https://pypi.org/project/django_yunohost_integration/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/django_yunohost_integration)](https://github.com/Yell0wflash/django-for-runners/blob/main/pyproject.toml)
-[![License GPL](https://img.shields.io/pypi/l/django_yunohost_integration)](https://github.com/Yell0wflash/django-for-runners/blob/main/LICENSE)
-
-(The name **Django-ForRunners** has the origin from the great Android tracking app **ForRunners** by Benoît Hervier: [http://rvier.fr/#forrunners](http://rvier.fr/#forrunners) )
-
-[![Install Django-ForRunners with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=django-for-runners_ynh)
-
-> [django-for-runners_ynh](https://github.com/YunoHost-Apps/django-for-runners_ynh) allows you to install Django-ForRunners quickly and simply on a YunoHost server. If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/install) to learn how to install it.
-
 ## Features:
 
 
